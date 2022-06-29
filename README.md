@@ -1,2 +1,2 @@
 # Project
-A Sample project
+A Sample project by crisforever, one student for world of programation.
